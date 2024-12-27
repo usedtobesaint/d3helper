@@ -31,22 +31,22 @@ The application leverages advanced technologies like computer vision and OCR to 
 
 ### Detecting Portals
 - **Blue Portal Detection**
-  ![Blue Portal Detection](https://i.imgur.com/y3mdyWG_lq.mp4)
+  ![Blue Portal Detection](assets/bluePortal.gif)
 
 - **Orange Portal Detection**
-  ![Orange Portal Detection](https://i.imgur.com/AUq4FlP.mp4)
+  ![Orange Portal Detection](assets/orangePortal.gif)
 
 ### Purchasing Items
 Automates the item purchasing process from vendors.
-![Item Purchasing](https://i.imgur.com/hlWIhzO_lq.mp4)
+![Item Purchasing](assets/gambling.gif)
 
 ### Enchanting Gear
 Simplifies enchantment by automating repetitive steps.
-![Enchanting Gear](https://i.imgur.com/yMd0Ltm_lq.mp4)
+![Enchanting Gear](assets/enchanting.gif)
 
 ### NPC Detection
 Uses SIFT to identify NPCs like Orrek.
-![NPC Detection](https://i.imgur.com/b0fDrpf_lq.mp4)
+![NPC Detection](assets/orek.gif)
 
 ## System Requirements
 
@@ -73,7 +73,7 @@ All dependencies are packaged within the installer for user convenience.
 
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://rem.mit-license.org).
 
 
 ---
