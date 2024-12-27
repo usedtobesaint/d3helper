@@ -31,14 +31,14 @@ The application leverages advanced technologies like computer vision and OCR to 
 
 ### Detecting Portals
 - **Blue Portal Detection**
-  ![Blue Portal Detection](assets/bluePortal.gif)
+  ![Blue Portal Detection](//assets/bluePortal.gif)
 
 - **Orange Portal Detection**
-  ![Orange Portal Detection](assets/orangePortal.gif)
+  ![Orange Portal Detection](//assets/orangePortal.gif)
 
 ### Purchasing Items
 Automates the item purchasing process from vendors.
-![Item Purchasing](assets/gambling.gif)
+![Item Purchasing](//assets/gambling.gif)
 
 ### Enchanting Gear
 Simplifies enchantment by automating repetitive steps.
@@ -46,7 +46,7 @@ Simplifies enchantment by automating repetitive steps.
 
 ### NPC Detection
 Uses SIFT to identify NPCs like Orrek.
-![NPC Detection](assets/orek.gif)
+![NPC Detection](//assets/orek.gif)
 
 ## System Requirements
 
