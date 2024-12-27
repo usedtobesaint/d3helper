@@ -31,7 +31,7 @@ The application leverages advanced technologies like computer vision and OCR to 
 
 ### Detecting Portals
 - **Blue Portal Detection**
-  ![Blue Portal Detection](#)
+  ![Blue Portal Detection](https://imgur.com/gallery/blue-portal-y3mdyWG)
 
 - **Orange Portal Detection**
   ![Orange Portal Detection](#)
