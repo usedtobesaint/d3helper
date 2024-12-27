@@ -23,7 +23,7 @@ The application leverages advanced technologies like computer vision and OCR to 
 
 ## Installation
 
-1. Download the installer from the [release page](#).
+1. Download the installer.
 2. Run the installer and follow the on-screen instructions.
 3. Launch the application from the desktop shortcut or start menu.
 
@@ -31,22 +31,22 @@ The application leverages advanced technologies like computer vision and OCR to 
 
 ### Detecting Portals
 - **Blue Portal Detection**
-  ![Blue Portal Detection]([https://imgur.com/gallery/blue-portal-y3mdyWG](https://i.imgur.com/y3mdyWG_lq.mp4))
+  ![Blue Portal Detection](https://i.imgur.com/y3mdyWG_lq.mp4)
 
 - **Orange Portal Detection**
-  ![Orange Portal Detection](#)
+  ![Orange Portal Detection](https://i.imgur.com/AUq4FlP.mp4)
 
 ### Purchasing Items
 Automates the item purchasing process from vendors.
-![Item Purchasing](#)
+![Item Purchasing](https://i.imgur.com/hlWIhzO_lq.mp4)
 
 ### Enchanting Gear
 Simplifies enchantment by automating repetitive steps.
-![Enchanting Gear](#)
+![Enchanting Gear](https://i.imgur.com/yMd0Ltm_lq.mp4)
 
 ### NPC Detection
 Uses SIFT to identify NPCs like Orrek.
-![NPC Detection](#)
+![NPC Detection](https://i.imgur.com/b0fDrpf_lq.mp4)
 
 ## System Requirements
 
@@ -73,7 +73,7 @@ All dependencies are packaged within the installer for user convenience.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]().
 
 
 ---
